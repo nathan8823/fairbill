@@ -1,0 +1,16 @@
+# ── PRIVACY GUARD ─────────────────────────────────────────────
+# Case files contain medical bills, diagnoses, account numbers,
+# and other sensitive personal information. They must NEVER be
+# committed. Everything under cases/ is ignored except its README.
+cases/*
+!cases/README.md
+
+# Scratch/output files that may contain personal info
+*.local.md
+*.local.pdf
+outbox/
+inbox/
+
+# OS noise
+.DS_Store
+Thumbs.db

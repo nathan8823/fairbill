@@ -105,6 +105,38 @@ they're indefensible for routine visits.
 > $[X] within 15 days of written confirmation that it settles the account
 > in full. That's faster and cheaper than collections recovery."
 
+## "There's no discount for paying in full." (asked for prompt-pay, told no)
+
+Front-line reps often can't see — or aren't incentivized to mention —
+discount programs that financial counselors can apply. And "no discount"
+coexists with a published cash price that's lower than what you're being
+asked for.
+
+> "Please transfer me to a financial counselor or billing supervisor. Your
+> published standard-charges file lists a discounted cash price of $[X]
+> for these services; I'd like to understand why paying in full today
+> wouldn't qualify for at least that rate."
+
+If it's genuinely a firm no, the evidence-based settlement offer in writing
+is the next move — "no discount policy" collapses surprisingly often when
+the alternative is a documented dispute.
+
+## "We've billed your insurance — this balance is what's left."
+
+Verify the sequence, not the assertion. Hospital statements routinely go
+out before the claim has even been submitted (`inside-the-machine.md`).
+
+> "On what date was the claim submitted to my insurance, and to which
+> payer? I don't see a matching EOB. I won't be paying until I have the
+> EOB showing patient responsibility, and I'd like the account held until
+> then."
+
+If the claim was never filed, was filed to the wrong payer, or was denied
+for the provider's own coding/authorization error: the fix is the
+provider's corrected resubmission, and a claim that missed the payer's
+timely-filing deadline is generally the provider's write-off — not the
+patient's bill.
+
 ## They just… never respond.
 
 Silence is a tactic too. Every unanswered written request gets one follow-up

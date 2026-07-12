@@ -18,7 +18,19 @@ Legal detail: `knowledge/rights-and-laws.md` §4–5.
    `templates/letters/debt-validation.md`).
 2. **Is it a summons?** Court papers ≠ collection letter. Answer-by date,
    legal aid (lawhelp.org), everything else pauses. Never let a user
-   default — default judgments are how medical debt becomes wage garnishment.
+   default — the default rate in medical debt lawsuits is over 90%, and
+   default judgment is how a negotiable bill becomes wage garnishment.
+   The single most important act is **filing a written answer with the
+   court before the deadline**. It doesn't need to be elaborate — a
+   general denial disputing the amount claimed and demanding the plaintiff
+   produce complete documentation of the original debt (itemized billing
+   records and proof of assignment) turns a default into a contested case.
+   Contested cases require preparation; preparation costs more than a
+   typical medical debt is worth, which is why answered cases so often
+   settle or get dropped. Route the user to their court's self-help
+   center or state answer form (most states have fill-in-the-blank
+   versions) plus legal aid — the agent drafts supporting content but the
+   user files, and court procedure is state-specific.
 3. **Original provider a nonprofit hospital?** The 240-day FAP window may
    still be open — an assistance application can pull the debt back entirely
    (`financial-assistance`). Also consider asking the provider to **recall**

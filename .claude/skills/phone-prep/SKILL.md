@@ -45,3 +45,12 @@ immediately draft the same-day written recap email (`draft-email`):
 "Per our call today with <name>, reference #<n>, you confirmed…" — the
 recap converts a phone promise into evidence. Update deadlines in `case.md`
 and name the next action.
+
+## Pre-care calls (no bill yet)
+
+For upcoming appointments/procedures, the brief is the four prevention
+questions in `knowledge/before-care.md` (network status for the specific
+visit type, financial-assistance application, where tests/referrals get
+processed, best-price-if-paying-today) plus a GFE request when self-pay.
+Same capture rules: names, dates, and answers into a dated note the user
+keeps.

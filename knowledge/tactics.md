@@ -16,6 +16,13 @@ statement; please note the account is in dispute" pauses most collection
 timelines in practice. Get every commitment logged: date, person, reference
 number.
 
+If insured, add the timing check: hospital statements typically go out
+**before the insurance claim is even submitted** (coding takes days to
+weeks; the patient statement is instant). Ask "has this claim been
+submitted to my insurance, and on what date?" — and never pay before the
+EOB exists and matches the bill. The EOB is the only document that shows
+what is actually owed (see `inside-the-machine.md`).
+
 ### 2. Demand the itemized bill
 Request "a fully itemized statement with CPT/HCPCS codes and descriptions for
 every charge" — not the summary bill. Providers routinely send a one-line
@@ -84,7 +91,9 @@ Work it one rung at a time; each rung is cited in the letter to the next.
 1. Billing representative (phone + written recap)
 2. Billing supervisor / "patient financial services"
 3. Hospital **patient advocate / ombudsman** (they exist; they can move bills)
-4. Written dispute to the billing department (certified mail)
+4. Written dispute to the billing department (certified mail), **CC the
+   hospital's compliance office** — compliance answers for regulatory
+   exposure and has authority billing does not (`inside-the-machine.md`)
 5. Hospital administration — patient experience office, then CFO's office
 6. Regulators, as fits the facts:
    - No Surprises Act violation → CMS complaint (cms.gov/nosurprises, 1-800-985-3059)

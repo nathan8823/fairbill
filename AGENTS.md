@@ -98,9 +98,11 @@ pick up instantly.
 | Prep a phone call | `.claude/skills/phone-prep/` | Scripts + question lists |
 | Collections / credit threats | `.claude/skills/collections/` | Debt validation, FDCPA |
 | Insurance denied the claim | `.claude/skills/insurance-appeal/` | Internal appeal → external review |
+| Upcoming care (no bill yet) | `knowledge/before-care.md` + `phone-prep` | Prevention: the four questions, GFE, admissions paperwork |
 
 Reference knowledge lives in `knowledge/` (tactics, laws, price benchmarks,
-glossary, objection handling). Letter and email templates live in
+glossary, objection handling, prevention, and how billing works from the
+inside — `inside-the-machine.md` explains *why* these tactics work). Letter and email templates live in
 `templates/`. Personalize templates from the case file; never send a template
 with placeholders left in.
 

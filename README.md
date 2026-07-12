@@ -43,6 +43,7 @@ gracefully to copy-paste drafts without one.
 
 | Phase | What happens |
 |---|---|
+| **Prevention** | For upcoming care: the four questions that stop bad bills before they exist, Good Faith Estimates, what's really in the admissions paperwork |
 | **Intake** | Reads your bill/EOB/collection letters, builds a private case file, triages deadlines |
 | **Evidence** | Demands the itemized bill with CPT codes, audits it against a known-error checklist, pulls Medicare rates and the hospital's own price-transparency file |
 | **Rights screen** | Charity care (IRS 501(r)), No Surprises Act, Good Faith Estimate disputes, insurance appeals, debt-validation deadlines |
@@ -72,7 +73,8 @@ CLAUDE.md            ← Claude Code specifics
                        financial-assistance, strategy, draft-email,
                        send-letter, phone-prep, collections, insurance-appeal
 knowledge/           ← tactics, laws & rights, price benchmarks, glossary,
-                       objection handling
+                       objection handling, prevention (before-care),
+                       how billing works from the inside
 templates/           ← letters (certified-mail grade) and emails
 cases/               ← YOUR case files (gitignored, private)
 ```

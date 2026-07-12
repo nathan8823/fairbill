@@ -89,3 +89,15 @@ When talking to the user, always expand these on first use.
   (often 3–6 years). Payments or written acknowledgment can restart it.
 - **Charge-off / re-aging** — accounting and credit-report timing terms that
   collectors abuse; re-aging a debt's delinquency date is illegal.
+- **Propensity-to-pay score** — analytics score hospitals assign to
+  accounts (from credit and demographic data) that shapes how the account
+  is worked and collected. You were scored before you were billed.
+- **Assignment of benefits (AOB)** — admission-form clause authorizing the
+  provider to receive/negotiate insurance payment directly.
+- **1099-C / Form 982** — the IRS cancellation-of-debt form a patient may
+  receive after $600+ of debt forgiveness, and the form used to claim the
+  insolvency exclusion so the forgiven amount isn't taxed. See
+  `rights-and-laws.md` §8.
+- **Timely filing** — the deadline (set by plan contracts) for a provider
+  to submit a claim to insurance. A provider who misses it generally must
+  write the balance off — it cannot become the patient's bill.

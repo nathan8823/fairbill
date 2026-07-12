@@ -164,6 +164,42 @@ Most denials are appealable, and appeals succeed far more often than people expe
 
 ---
 
+## 8. Taxes on Forgiven Medical Debt (1099-C)
+
+When a creditor cancels a debt of **$600 or more**, the patient may receive
+a **Form 1099-C (Cancellation of Debt)**, and the forgiven amount is treated
+as taxable income by default — a $14,000 forgiveness at a 22% marginal rate
+would mean ~$3,080 of tax on money never received. Key qualifiers:
+
+- **Not every write-off is income.** Corrected billing errors and disputed
+  amounts are price adjustments, not debt cancellation — not taxable. The
+  same goes for charity-care adjustments under a Financial Assistance
+  Policy, which the IRS treats as the hospital's price reduction, not
+  forgiveness of an enforceable debt. Hospitals also generally are not
+  "applicable entities" required to file 1099-Cs, so most negotiated
+  reductions never generate one. Third-party debt buyers settling for less,
+  however, sometimes do.
+- **The insolvency exclusion.** If total liabilities exceeded total assets
+  at the moment of forgiveness — true for many people carrying large
+  medical debt — some or all of the canceled amount can be excluded from
+  income by filing **IRS Form 982** with that year's return. Document
+  assets and liabilities as of the forgiveness date.
+- This is squarely tax-professional territory: flag it, prepare the
+  numbers, and tell the user to confirm with a preparer — do not compute
+  their return.
+
+**How the agent uses this:**
+- When a settlement or forgiveness lands, warn the user a 1099-C *may*
+  arrive the following January and record the forgiveness date and amount
+  in the case file (that's the insolvency snapshot date).
+- If a 1099-C arrives for a *disputed or error-corrected* amount, the fix
+  is upstream: ask the issuer to correct/withdraw the 1099-C, in writing.
+- Frame settlements as "corrected balance" / "billing adjustment" rather
+  than "forgiveness" where truthful — the wording in the settlement letter
+  matters later.
+
+---
+
 ## Sources (verified July 2026)
 
 - CMS — No Surprises Act hub, GFE and dispute process: https://www.cms.gov/medical-bill-rights/help/dispute-a-bill and https://www.cms.gov/marketplace/technical-assistance-resources/understanding-good-faith-estimate-and-dispute-resolution-process.pdf

@@ -200,6 +200,74 @@ would mean ~$3,080 of tax on money never received. Key qualifiers:
 
 ---
 
+## 9. Smaller Federal Levers
+
+### Hospital-acquired conditions and complications
+
+Since 2008, Medicare's **Hospital-Acquired Conditions (HAC) nonpayment
+policy** bars hospitals from receiving higher payment for listed
+preventable conditions acquired **during the same admission** (certain
+surgical site infections, falls, catheter-associated infections, etc.), and
+the patient cannot be billed for that increment. **Scope honesty:** the HAC
+rule does *not* automatically cover a *readmission* caused by a prior
+stay's complication — proposals to extend it exist, but they are not law.
+Some Medicare Advantage and commercial payers apply their own HAC/
+"provider-preventable condition" policies; several state Medicaid programs
+do too.
+
+**How the agent uses this:**
+- Same-admission complication on the bill → cite the HAC policy directly
+  and dispute any charge tied to it.
+- Readmitted for a complication of the hospital's own care (e.g., a
+  documented surgical-site infection) → the play is a **billing review /
+  write-off request**, not a legal demand: *"This admission treated a
+  complication documented as arising from your facility's care. I'm
+  requesting administrative review and adjustment of these charges
+  consistent with your quality and billing policies."* Hospitals grant
+  these more often than they advertise — the complication is also an
+  internal quality metric they don't want escalated. Check the payer's HAC
+  policy too.
+
+### Language access (Title VI + ACA §1557)
+
+Title VI of the Civil Rights Act and ACA Section 1557 require every
+hospital receiving federal funds (i.e., accepting Medicare/Medicaid) to
+provide **meaningful access, free of charge**, to patients with limited
+English proficiency: qualified interpreters and translated **vital
+documents** — which include consent forms, patient-rights notices, and
+**financial assistance policies and applications**. Covered entities must
+also publish a notice of free language assistance in the 15 most common
+LEP languages of their state.
+
+**How the agent uses this:**
+- Exact ask: *"I am requesting a translated copy of my bill, your
+  financial assistance policy, and the application, under Title VI of the
+  Civil Rights Act and Section 1557 of the ACA."*
+- Translation requests frequently surface financial-assistance material
+  the English-language billing stream never presented. Always pair the
+  request with an FAP screen.
+- Stonewalled → complaint to the HHS Office for Civil Rights
+  (hhs.gov/ocr/complaints).
+
+### Patient-experience scores are money (HCAHPS / Value-Based Purchasing)
+
+Medicare withholds 2% of participating hospitals' payments and
+redistributes the pool by performance under Hospital Value-Based
+Purchasing; the patient-experience (HCAHPS) domain is roughly a quarter of
+the score. An unresolved billing fight is exactly the kind of experience
+those surveys capture, and hospital finance committees track the scores.
+
+**How the agent uses this:**
+- Check the hospital's scores at medicare.gov/care-compare before writing.
+- It's fair, and true, for a dispute letter to note that the billing
+  experience will be reflected in any patient-experience survey the user
+  receives. State it once, factually, without threats — like every
+  escalation lever, it works because it's real.
+- Never fabricate: the same rule as media contact — only reference surveys
+  or press involvement that actually exist or will actually happen.
+
+---
+
 ## Sources (verified July 2026)
 
 - CMS — No Surprises Act hub, GFE and dispute process: https://www.cms.gov/medical-bill-rights/help/dispute-a-bill and https://www.cms.gov/marketplace/technical-assistance-resources/understanding-good-faith-estimate-and-dispute-resolution-process.pdf
@@ -216,3 +284,7 @@ would mean ~$3,080 of tax on money never received. Key qualifiers:
 - HealthCare.gov — Internal appeals: https://www.healthcare.gov/appeal-insurance-company-decision/internal-appeals/
 - CMS — HHS-Administered Federal External Review Process: https://www.cms.gov/cciio/programs-and-initiatives/consumer-support-and-information/csg-ext-appeals-facts
 - CRS — Overview of Medical Debt Collection and Credit Reporting: https://www.congress.gov/crs-product/IF12169
+- CMS — Hospital-Acquired Conditions (nonpayment policy): https://www.cms.gov/medicare/payment/fee-for-service-providers/hospital-aquired-conditions-hac
+- NHeLP — Title VI and Section 1557 language access explainer: https://healthlaw.org/resource/what-is-required-under-title-vi-and-section-1557-to-ensure-language-access-for-individuals-with-limited-english-proficiency/
+- HHS OCR — Section 1557 LEP fact sheet: https://www.hhs.gov/civil-rights/for-individuals/section-1557/fs-limited-english-proficiency/index.html
+- CMS — HCAHPS overview: https://www.cms.gov/medicare/quality/initiatives/hospital-quality-initiative/hcahps-patients-perspectives-care-survey

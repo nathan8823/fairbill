@@ -105,6 +105,20 @@ they're indefensible for routine visits.
 > $[X] within 15 days of written confirmation that it settles the account
 > in full. That's faster and cheaper than collections recovery."
 
+## "That's how the doctor coded it." (duplicate/upcoding dispute deflected)
+
+The billing office treating the code as gospel is a routing problem — reps
+can't change codes, but coding review can.
+
+> "I understand you can't change the coding. Please route this account to
+> coding review — I'm disputing CPT [code] as inconsistent with the
+> documented care, and I'd like the review's outcome in writing. Until
+> then the account is in dispute."
+
+If coding review upholds it, the medical record is the referee: request it
+(`records-request`) and compare the code's official description against
+what's documented. "The doctor coded it" is not evidence; the chart is.
+
 ## "There's no discount for paying in full." (asked for prompt-pay, told no)
 
 Front-line reps often can't see — or aren't incentivized to mention —

@@ -42,7 +42,27 @@ too, and several states mandate them for everyone. Legal detail:
    and asks that collections be held while the application is pending
    (which 501(r) effectively requires for the ECA clock).
 
-6. **If they stonewall** ("only for uninsured," "you don't qualify" with no
+6. **Check for a hidden screening.** Many hospitals run automated
+   "presumptive eligibility" scoring using credit data and zip-code median
+   income — and deny quietly without telling the patient. Ask in writing:
+   *"Has any financial assistance screening or eligibility determination
+   already been performed on this account? If so, what income figure was
+   used and from what source?"* If the screening used estimated income
+   (zip-code median is common and often wildly wrong), request a
+   **rescreening with actual income documentation**. The full account-file
+   request in `templates/letters/records-request.md` surfaces this too.
+
+7. **Bring the hospital's own numbers.** Its Form 990 (free at ProPublica
+   Nonprofit Explorer) shows executive compensation and charity-care
+   spending side by side, and Schedule H details community benefit. A
+   hospital reporting mostly *bad debt* (failed collections) rather than
+   real charity care inside its "community benefit" total is
+   under-enrolling eligible patients — reasonable to note, factually, in a
+   written assistance request or an AG complaint. LEP patients: translated
+   FAPs and applications are a Title VI/§1557 right
+   (`rights-and-laws.md` §9).
+
+8. **If they stonewall** ("only for uninsured," "you don't qualify" with no
    written basis): comebacks in `knowledge/objections.md`; escalation is a
    state AG complaint + IRS Form 13909 — mention only at the right rung.
 

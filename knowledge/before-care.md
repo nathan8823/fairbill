@@ -32,6 +32,18 @@ a note they keep:
    apply. (Don't actually pay on the spot for anything large — get the
    quoted price in writing and run the normal verification first.)
 
+## Get coverage promises from the insurer, in writing
+
+Hospital staff say "this is fully covered" all the time — and cannot put it
+in writing, because coverage isn't their call. The document that matters
+comes from the **insurer**: *"I'd like a written pre-authorization
+confirmation for this procedure, including the estimated patient
+responsibility amount."* Save it to the case folder. When the bill later
+disagrees with it, that document is the dispute. (Insurers caveat these
+with "not a guarantee of payment" — it still anchors any later fight far
+better than a remembered phone call.) Log every verbal assurance anyway:
+name, role, date, exact words.
+
 ## Good Faith Estimates (self-pay/uninsured)
 
 For scheduled care, request the GFE in writing and keep it — it's the anchor

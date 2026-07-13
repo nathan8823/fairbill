@@ -101,7 +101,17 @@ Work it one rung at a time; each rung is cited in the letter to the next.
    - Collections abuse → CFPB complaint (consumerfinance.gov/complaint)
    - Insurance misconduct → state insurance commissioner
 7. Local journalism / social media — hospitals settle fast when a documented
-   story is about to run. Last rung, real leverage.
+   story is about to run. A media inquiry routes straight to the PR office
+   and the executive chain, bypassing the billing queue entirely. Last
+   rung, real leverage — and **only ever reference media contact that has
+   actually happened**. Implying press involvement that doesn't exist
+   violates rule 6 (don't fabricate) and hands the hospital's counsel a
+   reason to dismiss everything else in the file.
+
+Two cross-cutting leverage facts for the letters at rungs 4–6: the
+hospital's patient-experience scores are tied to Medicare money
+(`rights-and-laws.md` §9), and its Form 990 shows exactly how much charity
+care went unspent next to executive pay (`.claude/skills/financial-assistance/`).
 
 ## Timing leverage
 
@@ -116,6 +126,12 @@ Work it one rung at a time; each rung is cited in the letter to the next.
 - **In collections:** the agency bought or works the debt at a steep
   discount — settlement room is often larger, but validate the debt first
   (see `.claude/skills/collections/`).
+- **Before a merger closes:** hospital mergers are announced months ahead,
+  and research consistently finds prices rise after them. Assistance
+  programs, payment plans, and billing systems also get restructured.
+  Anything in flight — a charity-care enrollment, a payment plan, a
+  settlement — should be locked in writing at current terms before the
+  new entity takes over.
 
 ## Paper-trail discipline
 

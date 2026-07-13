@@ -21,13 +21,22 @@ there isn't one, send the request first (`templates/letters/itemized-request.md`
    them: "You're billed for two chest X-rays — do you remember two?"
 
 3. **Run the error checklist** (details in `knowledge/tactics.md` §3 and
-   `knowledge/glossary.md`):
-   - Duplicates (same code + date, or same service under two revenue codes)
-   - Upcoding (ER E/M level vs. what happened; observation billed as admission)
-   - Unbundling (components billed alongside their bundle code)
-   - Phantom items (drugs/supplies/tests not received; canceled orders)
+   `knowledge/glossary.md`). Billing departments have insider names for the
+   big four — use them; they signal you know the game:
+   - **"Double dip"** — duplicates (same code + date, or same service under
+     two revenue codes)
+   - **"Level creep"** — upcoding (ER E/M level vs. what happened;
+     observation billed as admission)
+   - **"Unbundling"** — components billed alongside their bundle code
+   - **"Phantom charges"** — drugs/supplies/tests not received; ordered
+     then canceled but billed
    - Quantity errors (units column!) and impossible times (OR minutes, room days
      — the discharge-day room charge is a classic)
+   - **Room-type charges**: private-room rates for shared rooms. The
+     hospital's bed-management system logs every room/bed assignment by
+     shift (ADT — admission/discharge/transfer records). Request them for
+     any inpatient stay with room charges — see the optional items in
+     `templates/letters/records-request.md`.
    - Wrong patient, date, or provider lines
    - If insured: EOB mismatch — any line where the provider's ask exceeds
      the EOB's patient responsibility

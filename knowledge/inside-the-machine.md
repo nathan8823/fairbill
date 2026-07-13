@@ -78,3 +78,23 @@ Two structural notes that follow:
   The system assumes non-response. A written dispute takes an account out
   of the automated flow and forces a human decision — which is exactly
   where negotiation begins.
+
+## The accounting behind "we're a charitable institution"
+
+Hospitals report "uncompensated care" as proof of community benefit — but
+that total mixes **charity care** (assistance actually granted) with **bad
+debt** (bills they tried and failed to collect, often from patients who
+would have qualified for assistance nobody offered them). The diagnostic
+question, useful in writing: *"What percentage of your reported
+uncompensated care is charity care, as opposed to bad debt?"* Pair it with
+the hospital's Form 990 (executive compensation and charity-care spending,
+same public document) and, for the deepest cut, ask whether charity care is
+valued at cost or at chargemaster rates. None of this is rude — it's the
+hospital's own reporting, quoted back. At public (government-owned)
+hospitals, internal billing-audit documents may even be reachable by
+public-records request.
+
+Errors are not rare events, either: internal hospital audits are
+sample-based, and patient-initiated disputes routinely catch errors the
+samples miss. The most thorough review any bill ever gets is the one the
+patient does.

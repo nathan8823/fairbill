@@ -31,6 +31,15 @@ Legal detail: `knowledge/rights-and-laws.md` §4–5.
    center or state answer form (most states have fill-in-the-blank
    versions) plus legal aid — the agent drafts supporting content but the
    user files, and court procedure is state-specific.
+
+   **The one-folder defense.** If it goes to a hearing, prepare a single
+   folder: itemized bill, medical records, the EOB, the financial
+   assistance application + the hospital's written acknowledgment of
+   receipt, and the hospital's own charity-care policy with the user's
+   eligibility highlighted. Collection attorneys file expecting a no-show;
+   documented FAP eligibility that was never properly determined (a
+   501(r) problem for the hospital) frequently ends in dismissal or
+   immediate settlement.
 3. **Original provider a nonprofit hospital?** The 240-day FAP window may
    still be open — an assistance application can pull the debt back entirely
    (`financial-assistance`). Also consider asking the provider to **recall**
@@ -49,6 +58,18 @@ possible. If they call: `phone-prep` with the collector-specific do-not
 lines (never confirm the debt, never make a "good-faith payment" — in many
 states partial payment restarts the statute of limitations, never give bank
 details).
+
+## Moving states mid-dispute
+
+Medical debt follows an interstate move, but the rules change: the debt
+itself is generally governed by the state where care was delivered, while
+collection conduct and protections follow the user's new state (several
+states now cap interest, restrict garnishment, or ban credit reporting for
+medical debt — check the new state in `rights-and-laws.md` §5). Before/at
+the move: send written address updates to every provider and collector
+(courts put the duty to stay reachable on the debtor — a bill lost to mail
+forwarding is still a bill), and request written account status on every
+open account so there's a dated snapshot.
 
 ## Credit reports
 

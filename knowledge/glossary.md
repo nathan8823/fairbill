@@ -101,3 +101,23 @@ When talking to the user, always expand these on first use.
 - **Timely filing** — the deadline (set by plan contracts) for a provider
   to submit a claim to insurance. A provider who misses it generally must
   write the balance off — it cannot become the patient's bill.
+- **ADT records / bed-management log** — the hospital's
+  admission/discharge/transfer system, recording every room and bed
+  assignment by shift. The document that proves (or disproves) a
+  private-room charge.
+- **HCAHPS** — the federal patient-experience survey; scores feed the
+  Value-Based Purchasing program that adjusts hospitals' Medicare
+  payments. See `rights-and-laws.md` §9.
+- **HAC** (Hospital-Acquired Condition) — listed preventable conditions
+  (certain infections, falls) that Medicare won't pay extra for when
+  acquired during the stay — and that can't be billed to the patient.
+- **Form 990 / Schedule H** — the public IRS filing every nonprofit
+  hospital makes: revenue, executive pay, and charity-care/community-
+  benefit spending in one document (free at ProPublica Nonprofit Explorer).
+- **Bad debt vs. charity care** — inside "uncompensated care" totals, bad
+  debt is failed collections, not generosity. A hospital counting mostly
+  bad debt as "community benefit" is under-enrolling eligible patients.
+- **Presumptive eligibility screening** — automated charity-care scoring
+  using credit and zip-code data instead of asking the patient. Can
+  silently deny people who actually qualify — always ask what income
+  figure was used.

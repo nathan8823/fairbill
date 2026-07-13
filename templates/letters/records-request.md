@@ -22,6 +22,15 @@ request copies of the following records for the date(s) of service above:
    with CPT/HCPCS and revenue codes, and any claim forms (UB-04/CMS-1500)
    submitted to any payer.
 
+{{OPTIONAL_ITEMS_DELETE_IF_UNUSED:
+3. Room and bed assignment records (admission/discharge/transfer records)
+   for the inpatient stay, sufficient to show the room type occupied for
+   each day billed;
+4. The complete account file for this account, including all statements
+   and written communications sent regarding it, account notes, and any
+   financial assistance screening or eligibility determination performed —
+   including the income figure used and its source.}}
+
 Please provide the records **electronically** ({{EMAIL_OR_PORTAL}}) if
 readily producible in that form. I understand you may charge only a
 reasonable, cost-based fee, and that a response is required within 30 days.

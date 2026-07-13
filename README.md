@@ -21,7 +21,7 @@ does too. **The goal: you pay what is fair — nothing more.**
 ## Quickstart
 
 ```bash
-git clone https://github.com/YOURNAME/fairbill
+git clone https://github.com/nathan8823/fairbill
 cd fairbill
 claude   # or any agent that reads AGENTS.md
 ```

@@ -1,0 +1,14 @@
+blank_issues_enabled: true
+contact_links:
+  - name: "⚠️ Before you post: no personal information"
+    url: https://github.com/nathan8823/fairbill/blob/main/CONTRIBUTING.md
+    about: >-
+      Never include account numbers, bill images, names, dollar amounts tied
+      to identifiable people, or provider + date combinations. Depersonalize
+      everything. Issues are public forever.
+  - name: Need help with a bill right now?
+    url: https://github.com/nathan8823/fairbill#quickstart
+    about: >-
+      This repo isn't a help desk — clone it and point your AI agent at it
+      (see the Quickstart), or find a human advocate via dollarfor.org or
+      claims.org.
